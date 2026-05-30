@@ -1,0 +1,8 @@
+bin/
+leads.csv
+leads_with_copy.csv
+*.csv
+!examples/*.csv
+__pycache__/
+*.pyc
+.DS_Store
