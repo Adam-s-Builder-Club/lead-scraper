@@ -10,6 +10,19 @@ phone, website, rating, reviews, (optional) email, and Google Maps link.
 "med spas in Scottsdale AZ"  ->  leads.csv  ->  personalized opener per lead
 ```
 
+## Quickest start (no terminal needed)
+
+Open [Claude Code](https://claude.com/claude-code), paste this link, and say:
+
+> Set this up as a skill and run it: https://github.com/Adam-s-Builder-Club/lead-scraper
+
+Then just tell it what leads you want, e.g. *"find dentists in Miami."* Claude
+clones it, installs the engine, and runs the scrape for you. That's it.
+
+New to Claude Code? Get it free at <https://claude.com/claude-code>, then do
+the above. Find more skills like this in **Adam's Builder Club**:
+<https://www.skool.com/adams-builder-club-5635>
+
 ## Install (Claude Code skill)
 
 Copy this folder into your Claude Code skills directory:
